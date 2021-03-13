@@ -21,6 +21,5 @@ updates:
       timezone: 'Europe/Berlin'
     commit-message:
       prefix: 'tf'
-      include: 'scope'
     labels:
       - 'dependency :robot:'
