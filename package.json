@@ -6,17 +6,10 @@
   "scripts": {
     "test": "exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stoe/github-actions-workshop.git"
-  },
+  "repository": "github:stoe/github-actions-workshop",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stoe/github-actions-workshop/issues"
-  },
-  "homepage": "https://github.com/stoe/github-actions-workshop#readme",
   "dependencies": {
     "moment": "^2.24.0"
   }
